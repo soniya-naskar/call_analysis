@@ -1,0 +1,8 @@
+openai-whisper
+keybert
+nltk
+transformers
+torch
+librosa
+pydub
+sentence-transformers
